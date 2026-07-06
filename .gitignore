@@ -1,0 +1,35 @@
+# ApexFlow ERP System
+# Laravel + React/Inertia.js Full-Stack ERP
+
+# Laravel
+/vendor/
+/.env
+/.env.backup
+/.env.production
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/storage/logs/*
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+*.log
+.phpunit.result.cache
+docker-compose.override.yml
+
+# Vite / Node
+/public/build/
+npm-debug.log
+yarn-error.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
